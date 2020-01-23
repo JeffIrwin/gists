@@ -7,3 +7,6 @@
 [submodule "submodules/triplePalindrome"]
 	path = submodules/triplePalindrome
 	url = https://gist.github.com/JeffIrwin/3d9ba91fe0c5001d189c759729c5e49e
+[submodule "submodules/asc2bin2asc"]
+	path = submodules/asc2bin2asc
+	url = https://gist.github.com/JeffIrwin/6634c8e1ffee5611ceabe41acab81fed
