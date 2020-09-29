@@ -10,3 +10,6 @@
 [submodule "submodules/asc2bin2asc"]
 	path = submodules/asc2bin2asc
 	url = https://gist.github.com/JeffIrwin/6634c8e1ffee5611ceabe41acab81fed
+[submodule "submodules/array"]
+	path = submodules/array
+	url = https://gist.github.com/JeffIrwin/28b26ca8e69d49a0ddb558ae3a319889
