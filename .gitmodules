@@ -1,0 +1,18 @@
+[submodule "submodules/eniuq"]
+	path = submodules/eniuq
+	url = https://gist.github.com/JeffIrwin/3b519cda2c1e1771b2203caa77a412cf
+[submodule "submodules/quine"]
+	path = submodules/quine
+	url = https://gist.github.com/JeffIrwin/30b5f03256c3a737c152aac77ff1974f
+[submodule "submodules/triplePalindrome"]
+	path = submodules/triplePalindrome
+	url = https://gist.github.com/JeffIrwin/3d9ba91fe0c5001d189c759729c5e49e
+[submodule "submodules/asc2bin2asc"]
+	path = submodules/asc2bin2asc
+	url = https://gist.github.com/JeffIrwin/6634c8e1ffee5611ceabe41acab81fed
+[submodule "submodules/array"]
+	path = submodules/array
+	url = https://gist.github.com/JeffIrwin/28b26ca8e69d49a0ddb558ae3a319889
+[submodule "submodules/hello-r"]
+	path = submodules/hello-r
+	url = https://gist.github.com/JeffIrwin/d8c2cae2a68d55c3810d843ccacaad73
